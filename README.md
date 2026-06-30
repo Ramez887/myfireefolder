@@ -1,0 +1,2 @@
+# my first git project
+ this is first git project
